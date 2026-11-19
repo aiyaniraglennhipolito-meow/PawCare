@@ -1,4 +1,4 @@
-# PawCare — Prompt Log
+Prompt Log
 
 ## Scope and provenance
 
